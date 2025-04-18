@@ -488,16 +488,6 @@ a:hover {
 }
 
 
-.dropdown-nav-item {
-    display: flex;
-    position: relative;
-}
-
-
-.dropdown-nav-item:hover+.dropdown-menu {
-    display: block;
-
-}
 
 .nav-items .dropdown-nav-item:hover {
     text-decoration: underline;
